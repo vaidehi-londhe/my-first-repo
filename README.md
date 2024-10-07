@@ -1,2 +1,3 @@
 # my-first-repo
-<br>this file is prepared by vaidehi londhe</br>.
+this is my first repository
+<br>this file is prepared by vaidehi londhe.</br>
